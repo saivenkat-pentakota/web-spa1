@@ -1,0 +1,23 @@
+.main-body{
+    background-color: #ff0000;
+    padding:40px ;
+    color: #ffffff;
+    font-size: 140px;
+    font-weight: 700;
+}
+
+.topright-arrow{
+    width: 100px;
+}
+
+.get-started{
+    text-align: right;
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.getstarted-btn{
+    color: #ffffff;
+    
+}
