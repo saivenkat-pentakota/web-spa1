@@ -1,0 +1,16 @@
+.services{
+    justify-content: center;
+    background-color: aliceblue;
+    color: #ff0000;
+}
+
+.left-div{
+    padding-top: 500px;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.right-div{
+    font-size: 68px;
+    font-weight: 800;
+}
