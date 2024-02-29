@@ -1,0 +1,23 @@
+.faq{
+    padding-top:150px;
+    background-color: aliceblue;
+}
+.faq-header{
+    padding: 25px;
+    padding-bottom: 60px;
+    font-size: 64px;
+    font-weight: 700;
+    color: black;
+    line-height: 60px;
+}
+
+
+.faq-question{
+    font-size:30px;
+    text-decoration: underline;
+    font-weight: 600;
+    padding-left:200px;
+    cursor: pointer;
+    color: black;
+    
+}

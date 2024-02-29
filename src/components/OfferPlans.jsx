@@ -6,7 +6,7 @@ function OfferPlans() {
     <div className="offerplans">
       <div className="offerplans-header">PLANS WE OFFER</div>
       <div className="d-flex flex-row" >
-        <div className="card" style={{ width: "22rem", padding:"2px",margin:"35px" }}>
+        <div className="card bg-transparent" style={{ width: "22rem", padding:"2px",margin:"35px" ,color:"white"}}>
           <div className="card-body">
             <h5 className="card-title">DAAS GOOD CREATIVE DIRECTION</h5>
             <p className="card-text">
@@ -23,7 +23,7 @@ function OfferPlans() {
             <button className="btn btn-danger">GET STARTED</button>
           </div>
         </div>
-        <div className="card" style={{ width: "22rem", padding:"2px",margin:"35px"  }}>
+        <div className="card bg-transparent" style={{ width: "22rem", padding:"2px",margin:"35px",color:"white"  }}>
           <div className="card-body">
             <h5 className="card-title">DAAS GOOD
 DESIGN</h5>
@@ -39,7 +39,7 @@ DESIGN</h5>
             <button className="btn btn-danger">GET STARTED</button>
           </div>
         </div>
-        <div className="card" style={{ width: "22rem", padding:"2px",margin:"35px"  }}>
+        <div className="card bg-transparent" style={{ width: "22rem", padding:"2px",margin:"35px",color:"white"  }}>
           <div className="card-body">
             <h5 className="card-title">DAAS GOOD PROJECT SPRINTS</h5>
             <p className="card-text">
@@ -52,7 +52,7 @@ DESIGN</h5>
             <button className="btn btn-danger">GET STARTED</button>
           </div>
         </div>
-        <div className="card" style={{ width: "22rem" , padding:"2px",margin:"35px" }}>
+        <div className="card bg-transparent" style={{ width: "22rem" , padding:"2px",margin:"35px",color:"white" }}>
           <div className="card-body">
             <h5 className="card-title">DAAS GOOD, BUT I NEED MORE...</h5>
             <p className="card-text">

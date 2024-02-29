@@ -6,7 +6,7 @@ import asterisk from "../images/asterisk.png";
 function MainBody() {
   return (
     <div className="main-body">
-      <p>
+      <p className="main-body-header">
         DONE-FOR-YOU
         <br />
         CREATIVE ON
@@ -19,7 +19,7 @@ function MainBody() {
         />
       </p>
       <div className="get-started">
-        <p>
+        <p className="get-started-text">
           FOR BUSINESSES WHO NEED
           <br />
           GOOD CREATIVE WITHOUT

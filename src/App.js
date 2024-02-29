@@ -6,6 +6,10 @@ import BestWork3 from './components/BestWork3';
 import BestWork4 from './components/BestWork4';
 import Services from './components/Services';
 import OfferPlans from './components/OfferPlans';
+import FAQ from './components/FAQ';
+// import Companies from './components/Companies';
+import Reviews from './components/Reviews';
+
 
 function App() {
   return (
@@ -17,6 +21,10 @@ function App() {
         <BestWork4/>
         <Services/>
         <OfferPlans/>
+        <FAQ/>
+        {/* <Companies/> */}
+        <Reviews/>
+        
        </div>
     
   );

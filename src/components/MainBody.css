@@ -6,13 +6,19 @@
     font-weight: 700;
 }
 
+.main-body-header{
+    padding:156px 0px;
+    line-height:125px;
+    font-weight:800;
+}
+
 .topright-arrow{
     width: 100px;
 }
 
 .get-started{
     text-align: right;
-    color: black;
+    color: black; 
     font-size: 22px;
     font-weight: 700;
 }
