@@ -19,5 +19,18 @@
 
 .getstarted-btn{
     color: #ffffff;
+    text-decoration:underline;
+    cursor: pointer;
     
+}
+
+.mainbody-text{
+    color: black;
+    font-size: 54px;
+    font-weight: 700;
+}
+
+.mainbody-text-data{
+    font-size: 16px;
+    font-weight: 500;
 }
